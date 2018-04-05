@@ -3,5 +3,6 @@
 void main()
 {
 printf("learning");
+printf("what is going on");
 getch();
 }
