@@ -1,0 +1,7 @@
+#include<conio.h>
+#include<stdio.h>
+void main()
+{ 
+printf("want to learn this\n ");
+getch();
+}
