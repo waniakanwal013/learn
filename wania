@@ -3,5 +3,6 @@
 void main()
 { 
 printf("want to learn this\n ");
+printf("edit try");
 getch();
 }
